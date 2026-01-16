@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently a second-year **Master's Student at Kanazawa University**, Japan. While my academic research focuses on **Computer Vision & Deep Learning**, I have developed a strong passion for **Cybersecurity**.
+
 🔭 **Current Research:**
 - **Multimodal Deep Learning for Sign Language:** Developing a framework that combines **Lip Reading** and **Hand Gesture Recognition** using advanced Deep Learning architectures.
 - **Neuro-Symbolic Smart Contract Auditing:** Investigating a hybrid approach to reduce false positives in static analysis by using **LLM-based verification** and automated code repair mechanisms.
